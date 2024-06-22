@@ -1,0 +1,36 @@
+Introduction
+This Privacy Policy describes how [Your Company/Robot Name] ("we," "our," or "us") collects, uses, and shares information about users ("you" or "your") when you interact with our robot.
+
+Information We Collect
+1. Personal Information:
+
+Voice and Audio Data: We may collect recordings of your voice and any audio interactions with the robot to improve our services.
+User Profile Information: If you create a user profile, we may collect your name, email address, and other profile-related information.
+2. Interaction Data:
+
+Usage Data: Information about your interactions with the robot, including commands given, responses, and interaction history.
+Technical Data: Data such as IP address, device type, operating system, and software versions used to interact with the robot.
+How We Use Your Information
+Service Improvement: To enhance and personalize your experience with the robot and improve our services.
+Communication: To respond to your inquiries, provide support, and send important updates.
+Research and Development: To conduct research and analysis to develop new features and improve existing functionalities.
+Compliance: To comply with legal obligations and protect our rights and interests.
+How We Share Your Information
+Service Providers: We may share your information with third-party service providers who assist us in operating our services, subject to confidentiality agreements.
+Legal Requirements: We may disclose your information to comply with legal processes or regulatory requirements.
+Business Transfers: In the event of a merger, acquisition, or sale of assets, your information may be transferred to the new owner.
+Data Security
+We implement appropriate technical and organizational measures to protect your information from unauthorized access, disclosure, alteration, or destruction.
+
+Data Retention
+We retain your information for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+Your Rights
+Access and Correction: You have the right to access and correct your personal information.
+Deletion: You can request the deletion of your personal information.
+Objection: You can object to the processing of your personal information under certain circumstances.
+Children's Privacy
+Our services are not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware of such data, we will take steps to delete it.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
